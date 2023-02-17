@@ -1,0 +1,15 @@
+C:\MainFolder\project_cs\BlackJackApp\bin\Debug\net7.0\BlackJackApp.exe
+C:\MainFolder\project_cs\BlackJackApp\bin\Debug\net7.0\BlackJackApp.deps.json
+C:\MainFolder\project_cs\BlackJackApp\bin\Debug\net7.0\BlackJackApp.runtimeconfig.json
+C:\MainFolder\project_cs\BlackJackApp\bin\Debug\net7.0\BlackJackApp.dll
+C:\MainFolder\project_cs\BlackJackApp\bin\Debug\net7.0\BlackJackApp.pdb
+C:\MainFolder\project_cs\BlackJackApp\obj\Debug\net7.0\BlackJackApp.csproj.AssemblyReference.cache
+C:\MainFolder\project_cs\BlackJackApp\obj\Debug\net7.0\BlackJackApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MainFolder\project_cs\BlackJackApp\obj\Debug\net7.0\BlackJackApp.AssemblyInfoInputs.cache
+C:\MainFolder\project_cs\BlackJackApp\obj\Debug\net7.0\BlackJackApp.AssemblyInfo.cs
+C:\MainFolder\project_cs\BlackJackApp\obj\Debug\net7.0\BlackJackApp.csproj.CoreCompileInputs.cache
+C:\MainFolder\project_cs\BlackJackApp\obj\Debug\net7.0\BlackJackApp.dll
+C:\MainFolder\project_cs\BlackJackApp\obj\Debug\net7.0\refint\BlackJackApp.dll
+C:\MainFolder\project_cs\BlackJackApp\obj\Debug\net7.0\BlackJackApp.pdb
+C:\MainFolder\project_cs\BlackJackApp\obj\Debug\net7.0\BlackJackApp.genruntimeconfig.cache
+C:\MainFolder\project_cs\BlackJackApp\obj\Debug\net7.0\ref\BlackJackApp.dll
